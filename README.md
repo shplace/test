@@ -1,6 +1,4 @@
 # test
 - Hello
-
-...
-
+- ...
 - Next
